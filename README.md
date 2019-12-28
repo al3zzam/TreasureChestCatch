@@ -1,2 +1,2 @@
 # TreasureChestCatch
-Capture.PNG
+![alt text](Capture.PNG) 
