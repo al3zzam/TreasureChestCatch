@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a4df9017903efb4e91a5d4247d20ae4
+timeCreated: 1516976186
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - Coin: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
